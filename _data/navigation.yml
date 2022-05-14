@@ -1,0 +1,13 @@
+# main links
+main:
+  - title: "About Me"
+    url: /about/
+
+  - title: "Publications"
+    url: /publication/
+
+  - title: "Work experience"
+    url: /experience/
+
+  - title: "Projects"
+    url: /project/
